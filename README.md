@@ -1,4 +1,4 @@
-#Simple site constructor on pure JS
+# Simple site constructor on pure JS
 
 A simple app on pure JS. 
 Following the principles of OOP and SOLID
